@@ -1,2 +1,2 @@
-# designlab
+#lab
 webs
